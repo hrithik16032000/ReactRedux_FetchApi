@@ -1,0 +1,7 @@
+{
+    "postId": "PostID",
+    "id": "Id",
+    "name": "Name",
+    "email": "Email",
+    "body": "Body"
+}
