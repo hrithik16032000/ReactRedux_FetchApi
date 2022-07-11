@@ -1,3 +1,33 @@
+#ReactRedux_FetchApi
+
+Pages:
+
+Home Tab- By default Active Tab, fetched 100 posts from the API and the total posts count is displayed on the tab badge.
+
+Comments Tab - The tab is activated on click, fetched 500 comments from the API and the total comments count is displayed on the tab badge.
+
+Albums Tab- The tab is activated on click, fetched 10 Albums for userID 1 and the total albums count is displayed on the tab badge.
+
+Photos Tab- The tab is activated on click, fetched 50 Photos of AlbumID 1 and the total photos count is dispkayed on the tab badge.
+
+Technologies: Reactjs, Redux
+
+Hooks Used:
+   React- useEffect |
+   Redux- useSelector, useDisptach
+
+API Data fetching: useEffect with async-await and Axios,
+API Source: https://jsonplaceholder.typicode.com/
+
+Redux Store:
+Actions ( set & count),
+Constants (action types),
+Reducers (component Reducers)
+
+UX Library: MaterialUI
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
