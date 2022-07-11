@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactRedux_FetchApi/static/css/main.e6c13ad2.css",
+    "main.js": "/ReactRedux_FetchApi/static/js/main.169e2bc5.js",
+    "index.html": "/ReactRedux_FetchApi/index.html",
+    "main.e6c13ad2.css.map": "/ReactRedux_FetchApi/static/css/main.e6c13ad2.css.map",
+    "main.169e2bc5.js.map": "/ReactRedux_FetchApi/static/js/main.169e2bc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.169e2bc5.js"
+  ]
+}
